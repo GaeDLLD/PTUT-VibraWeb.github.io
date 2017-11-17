@@ -1,9 +1,8 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Gaetan
- * Date: 15/11/2017
- * Time: 14:09
- */
+<html>
+    <head>
 
-echo("Hello World");
+    </head>
+    <body>
+
+    </body>
+</html>
